@@ -5,10 +5,10 @@ public class graus {
         
         Scanner input = new Scanner(System.in);
 
-        int grau = 0;
+        float grau = 0;
 
         System.out.println("Insira a temperatura em graus: ");
-        grau = input.nextInt();
+        grau = input.nextFloat ();
 
         System.out.printf("Temperatura convertida em Fahrenheit: " + (grau * 9 / 5 + 32));
     }
