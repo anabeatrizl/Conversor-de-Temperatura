@@ -8,7 +8,7 @@ public class graus {
         float grau = 0;
 
         System.out.println("Insira a temperatura em graus: ");
-        grau = input.nextFloat ();
+        grau = input.nextFloat();
 
         System.out.printf("Temperatura convertida em Fahrenheit: " + (grau * 9 / 5 + 32));
     }
