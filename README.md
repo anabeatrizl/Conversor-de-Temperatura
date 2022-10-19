@@ -1,3 +1,3 @@
 # Conversor de Temperatura
 
-Este é um simples conversor de temperatura em graus Celsius, para Fahrenheit.
+Este é um simples conversor de temperatura, de graus Celsius para Fahrenheit.
