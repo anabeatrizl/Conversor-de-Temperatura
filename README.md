@@ -1,3 +1,5 @@
 # Conversor de Temperatura
 
-Este é um simples conversor de temperatura, de graus Celsius para Fahrenheit.
+Este projeto tem como objetivo aprimorar meus estudos.
+
+Nele, é possível converter uma temperatura de graus Celsius para Fahrenheit.
